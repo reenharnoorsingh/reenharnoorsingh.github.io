@@ -1,6 +1,6 @@
 # reenharnoorsingh.github.io
 Portfoilo Website
-  - Made using CSS and HTML
+  - Made using CSS, HTML and Bootstrap
   - The idea was to keep it simple and professional
   - I'll keep on updating the website with the experience I gain
 
