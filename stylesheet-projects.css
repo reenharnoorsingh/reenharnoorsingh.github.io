@@ -3,8 +3,12 @@ h1{
     zoom: 300%;
     text-align: center;
 }
-p{
+#main-body{
     zoom: 80%;
+    color: azure;
+    text-align: center;
+}
+p{
     color: azure;
     text-align: center;
 }
