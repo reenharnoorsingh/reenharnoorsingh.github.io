@@ -4,12 +4,13 @@ h1{
     text-align: center;
 }
 p{
+    zoom: 80%;
     color: azure;
     text-align: center;
 }
 .container{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-template-rows: auto;
     grid-gap: 20px;
 }
