@@ -334,3 +334,15 @@ footer p {
 .container-fluid {
   margin-top: -50px;
 }
+#project-btn{
+  background-color: transparent;
+  border-color: white;
+}
+#project-btn:hover{
+  background-color: white;
+  color: black;
+  border-color: black;
+  animation: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
