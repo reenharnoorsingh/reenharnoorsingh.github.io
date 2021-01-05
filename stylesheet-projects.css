@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    zoom: 300%;
+    text-align: center;
+}
+p{
+    color: azure;
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 1fr;
+}
+
+.card{
+    border-color: white;
+}
+.card:hover{
+    animation: pulse;
+    animation-duration: 3s;
+}
+.card-text{
+    text-align: left;
+} 
+.btn{
+    background-color: transparent;
+    border-color: wheat;
+}
+.btn:hover{
+    background-color: wheat;
+    color: black;
+    border-color: wheat;
+}
